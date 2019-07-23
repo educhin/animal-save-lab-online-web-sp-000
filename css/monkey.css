@@ -16,3 +16,9 @@ html {
     top: 0;
   }
 }
+
+@media only screen and (min-width: 300px) and (max-width: 1170px) {
+  #monkey {
+    margin: auto;
+  }
+}
